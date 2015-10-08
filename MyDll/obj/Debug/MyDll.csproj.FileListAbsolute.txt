@@ -1,0 +1,10 @@
+C:\Kerrot\Test\DllCombine\MyDll\bin\Debug\MyDll.dll
+C:\Kerrot\Test\DllCombine\MyDll\bin\Debug\MyDll.pdb
+C:\Kerrot\Test\DllCombine\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
+C:\Kerrot\Test\DllCombine\MyDll\obj\Debug\MyDll.dll
+C:\Kerrot\Test\DllCombine\MyDll\obj\Debug\MyDll.pdb
+D:\Work\DllCombineTest\MyDll\bin\Debug\MyDll.dll
+D:\Work\DllCombineTest\MyDll\bin\Debug\MyDll.pdb
+D:\Work\DllCombineTest\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
+D:\Work\DllCombineTest\MyDll\obj\Debug\MyDll.dll
+D:\Work\DllCombineTest\MyDll\obj\Debug\MyDll.pdb

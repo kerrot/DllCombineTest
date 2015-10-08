@@ -1,0 +1,15 @@
+C:\Kerrot\Test\DllNeedLicence\bin\Debug\DllNeedLicence.dll
+C:\Kerrot\Test\DllNeedLicence\bin\Debug\DllNeedLicence.pdb
+C:\Kerrot\Test\DllNeedLicence\obj\Debug\DllNeedLicence.csprojResolveAssemblyReference.cache
+C:\Kerrot\Test\DllNeedLicence\obj\Debug\DllNeedLicence.dll
+C:\Kerrot\Test\DllNeedLicence\obj\Debug\DllNeedLicence.pdb
+C:\Kerrot\Test\DllCombine\DllNeedLicence\bin\Debug\DllNeedLicence.dll
+C:\Kerrot\Test\DllCombine\DllNeedLicence\bin\Debug\DllNeedLicence.pdb
+C:\Kerrot\Test\DllCombine\DllNeedLicence\obj\Debug\DllNeedLicence.dll
+C:\Kerrot\Test\DllCombine\DllNeedLicence\obj\Debug\DllNeedLicence.pdb
+C:\Kerrot\Test\DllCombine\DllNeedLicence\obj\Debug\DllNeedLicence.csprojResolveAssemblyReference.cache
+D:\Work\DllCombineTest\DllNeedLicence\bin\Debug\DllNeedLicence.dll
+D:\Work\DllCombineTest\DllNeedLicence\bin\Debug\DllNeedLicence.pdb
+D:\Work\DllCombineTest\DllNeedLicence\obj\Debug\DllNeedLicence.csprojResolveAssemblyReference.cache
+D:\Work\DllCombineTest\DllNeedLicence\obj\Debug\DllNeedLicence.dll
+D:\Work\DllCombineTest\DllNeedLicence\obj\Debug\DllNeedLicence.pdb
